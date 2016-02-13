@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paysages on Nature en Lorraine</title>
+    <link>http://replace-this-with-your-hugo-site.com/paysage/</link>
+    <description>Recent content in Paysages on Nature en Lorraine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sat, 13 Feb 2016 18:50:42 +0100</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/paysage/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Etang avec maison</title>
+      <link>http://replace-this-with-your-hugo-site.com/paysage/etang2/</link>
+      <pubDate>Sat, 13 Feb 2016 18:50:42 +0100</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/paysage/etang2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Etang</title>
+      <link>http://replace-this-with-your-hugo-site.com/paysage/etang/</link>
+      <pubDate>Sat, 13 Feb 2016 18:49:45 +0100</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/paysage/etang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blé</title>
+      <link>http://replace-this-with-your-hugo-site.com/paysage/ble/</link>
+      <pubDate>Sat, 13 Feb 2016 18:48:59 +0100</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/paysage/ble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biche</title>
+      <link>http://replace-this-with-your-hugo-site.com/paysage/biche/</link>
+      <pubDate>Sat, 13 Feb 2016 18:48:15 +0100</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/paysage/biche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forêt</title>
+      <link>http://replace-this-with-your-hugo-site.com/paysage/foret/</link>
+      <pubDate>Sat, 13 Feb 2016 18:47:03 +0100</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/paysage/foret/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
