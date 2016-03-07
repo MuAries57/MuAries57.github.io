@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videos on Nature en Lorraine</title>
+    <link>https://MuAries57.github.io/video/</link>
+    <description>Recent content in Videos on Nature en Lorraine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sat, 13 Feb 2016 18:48:15 +0100</lastBuildDate>
+    <atom:link href="https://MuAries57.github.io/video/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pie</title>
+      <link>https://muaries57.github.io/video/pie/</link>
+      <pubDate>Sat, 13 Feb 2016 18:48:15 +0100</pubDate>
+      
+      <guid>https://muaries57.github.io/video/pie/</guid>
+      <description>&lt;div class=&#34;videoblock&#34;&gt;
+&lt;div class=&#34;content&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/qOz6lU7GPdQ?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
