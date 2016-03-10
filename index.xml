@@ -6,8 +6,22 @@
     <description>Recent content on Nature en Lorraine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 27 Feb 2016 11:12:29 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 10 Mar 2016 20:09:45 +0100</lastBuildDate>
     <atom:link href="https://MuAries57.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mésanges</title>
+      <link>https://muaries57.github.io/video/mesanges/</link>
+      <pubDate>Thu, 10 Mar 2016 20:09:45 +0100</pubDate>
+      
+      <guid>https://muaries57.github.io/video/mesanges/</guid>
+      <description>&lt;div class=&#34;videoblock&#34;&gt;
+&lt;div class=&#34;content&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/4lK9QLA1BfY?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Faucon crecerelle</title>
@@ -205,15 +219,6 @@ Je pense que les gens les nourrissent, donc ils attendent à manger. Quand on s&
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Forêt</title>
-      <link>https://muaries57.github.io/paysage/foret/</link>
-      <pubDate>Sat, 13 Feb 2016 18:47:03 +0100</pubDate>
-      
-      <guid>https://muaries57.github.io/paysage/foret/</guid>
-      <description></description>
     </item>
     
   </channel>
