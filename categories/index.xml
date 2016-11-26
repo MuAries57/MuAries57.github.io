@@ -2,11 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nature en Lorraine</title>
-    <link>https://MuAries57.github.io/categories/</link>
+    <link>https://MuAries57.github.io/categories/index.xml</link>
     <description>Recent content on Nature en Lorraine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 10 Mar 2016 20:09:45 +0100</lastBuildDate>
     <atom:link href="https://MuAries57.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>

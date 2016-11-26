@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Oiseaux on Nature en Lorraine</title>
-    <link>https://MuAries57.github.io/categories/oiseaux/</link>
-    <description>Recent content in Oiseaux on Nature en Lorraine</description>
+    <title>Nature en Lorraine</title>
+    <link>https://MuAries57.github.io/categories/oiseaux/index.xml</link>
+    <description>Recent content on Nature en Lorraine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sun, 26 Jun 2016 13:38:39 +0200</lastBuildDate>
     <atom:link href="https://MuAries57.github.io/categories/oiseaux/index.xml" rel="self" type="application/rss+xml" />
     
     <item>

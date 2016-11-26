@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mamifère on Nature en Lorraine</title>
-    <link>https://MuAries57.github.io/categories/mamif%C3%A8re/</link>
-    <description>Recent content in Mamifère on Nature en Lorraine</description>
+    <title>Nature en Lorraine</title>
+    <link>https://MuAries57.github.io/categories/mamif%C3%A8re/index.xml</link>
+    <description>Recent content on Nature en Lorraine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 13 Feb 2016 13:49:56 +0100</lastBuildDate>
     <atom:link href="https://MuAries57.github.io/categories/mamif%C3%A8re/index.xml" rel="self" type="application/rss+xml" />
     
     <item>

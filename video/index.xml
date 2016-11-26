@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Videos on Nature en Lorraine</title>
-    <link>https://MuAries57.github.io/video/</link>
-    <description>Recent content in Videos on Nature en Lorraine</description>
+    <title>Video-rsses on Nature en Lorraine</title>
+    <link>https://MuAries57.github.io/video/index.xml</link>
+    <description>Recent content in Video-rsses on Nature en Lorraine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <lastBuildDate>Thu, 10 Mar 2016 20:09:45 +0100</lastBuildDate>

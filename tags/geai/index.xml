@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Geai on Nature en Lorraine</title>
-    <link>https://MuAries57.github.io/tags/geai/</link>
-    <description>Recent content in Geai on Nature en Lorraine</description>
+    <title>Nature en Lorraine</title>
+    <link>https://MuAries57.github.io/tags/geai/index.xml</link>
+    <description>Recent content on Nature en Lorraine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 19 Mar 2016 09:47:58 +0100</lastBuildDate>
     <atom:link href="https://MuAries57.github.io/tags/geai/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
