@@ -2,37 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Migrateur on Nature en Lorraine</title>
-    <link>https://muaries57.github.io/tags/migrateur/index.xml</link>
+    <link>https://MuAries57.github.io/tags/migrateur/</link>
     <description>Recent content in Migrateur on Nature en Lorraine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <atom:link href="https://muaries57.github.io/tags/migrateur/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Feb 2016 14:25:35 +0100</lastBuildDate>
+    
+	<atom:link href="https://MuAries57.github.io/tags/migrateur/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Vanneau huppé</title>
-      <link>https://muaries57.github.io/region/vanneau/</link>
+      <link>https://MuAries57.github.io/region/vanneau/</link>
       <pubDate>Sat, 13 Feb 2016 14:25:35 +0100</pubDate>
       
-      <guid>https://muaries57.github.io/region/vanneau/</guid>
-      <description>&lt;div class=&#34;sect2&#34;&gt;
-&lt;h3 id=&#34;_dans_le_nord&#34;&gt;Dans le nord&lt;/h3&gt;
-&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;En partant de chez les parents de Sam, nous voyons dans un champ, de beaux oiseaux à dominante noire et une crête sur la tête. Il y en avait vraiment beaucoup. Nous les avons observés un petit moment. C&amp;#8217;était des vanneaux huppés. Je pense qu&amp;#8217;ils étaient en migration car je n&amp;#8217;en ai jamais revus depuis.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;sect2&#34;&gt;
-&lt;h3 id=&#34;_dans_un_champ&#34;&gt;Dans un champ.&lt;/h3&gt;
-&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Cela faisait bien longtemps qu&amp;#8217;on en avait pas vu. Un vanneau hupé dans un champ le long de la route du boulot. L&amp;#8217;observation fut furtive car nous étions en voiture mais cet oiseau et facilement reconnaissable.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;sect2&#34;&gt;
-&lt;h3 id=&#34;_en_plein_hiver&#34;&gt;En plein hiver&lt;/h3&gt;
-&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Nous avons croisé un bon nombre de vanneaux huppés ce matin dans un champ recouvert de givre. Mais pour moi, ce sont des oiseaux migrateurs qui ne devraient pas se retrouver là dans le froid et le givre. J&amp;#8217;avoue ne pas tout comprendre.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <guid>https://MuAries57.github.io/region/vanneau/</guid>
+      <description>Dans le nord En partant de chez les parents de Sam, nous voyons dans un champ, de beaux oiseaux à dominante noire et une crête sur la tête. Il y en avait vraiment beaucoup. Nous les avons observés un petit moment. C&amp;#8217;était des vanneaux huppés. Je pense qu&amp;#8217;ils étaient en migration car je n&amp;#8217;en ai jamais revus depuis.
+  Dans un champ. Cela faisait bien longtemps qu&amp;#8217;on en avait pas vu.</description>
     </item>
     
   </channel>

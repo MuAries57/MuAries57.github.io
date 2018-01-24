@@ -1,166 +1,301 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nature en Lorraine</title>
-    <link>https://muaries57.github.io/tags/index.xml</link>
-    <description>Recent content on Nature en Lorraine</description>
+    <title>Tags on Nature en Lorraine</title>
+    <link>https://MuAries57.github.io/tags/</link>
+    <description>Recent content in Tags on Nature en Lorraine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <atom:link href="https://muaries57.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Mar 2016 20:09:45 +0100</lastBuildDate>
+    
+	<atom:link href="https://MuAries57.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Mésanges</title>
-      <link>https://muaries57.github.io/video/mesanges/</link>
+      <title></title>
+      <link>https://MuAries57.github.io/tags/</link>
       <pubDate>Thu, 10 Mar 2016 20:09:45 +0100</pubDate>
       
-      <guid>https://muaries57.github.io/video/mesanges/</guid>
-      <description>&lt;div class=&#34;videoblock&#34;&gt;
-&lt;div class=&#34;content&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/4lK9QLA1BfY?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;videoblock&#34;&gt;
-&lt;div class=&#34;content&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/3DxC1sDmDDQ?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mésanges</title>
-      <link>https://muaries57.github.io/video/mesanges/</link>
-      <pubDate>Thu, 10 Mar 2016 20:09:45 +0100</pubDate>
-      
-      <guid>https://muaries57.github.io/video/mesanges/</guid>
-      <description>&lt;div class=&#34;videoblock&#34;&gt;
-&lt;div class=&#34;content&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/4lK9QLA1BfY?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;videoblock&#34;&gt;
-&lt;div class=&#34;content&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/3DxC1sDmDDQ?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Etang avec maison</title>
-      <link>https://muaries57.github.io/paysage/etang2/</link>
-      <pubDate>Sat, 13 Feb 2016 18:50:42 +0100</pubDate>
-      
-      <guid>https://muaries57.github.io/paysage/etang2/</guid>
+      <guid>https://MuAries57.github.io/tags/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Etang avec maison</title>
-      <link>https://muaries57.github.io/paysage/etang2/</link>
-      <pubDate>Sat, 13 Feb 2016 18:50:42 +0100</pubDate>
+      <title>Bande</title>
+      <link>https://MuAries57.github.io/tags/bande/</link>
+      <pubDate>Tue, 19 Apr 2016 19:30:44 +0200</pubDate>
       
-      <guid>https://muaries57.github.io/paysage/etang2/</guid>
+      <guid>https://MuAries57.github.io/tags/bande/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Etang</title>
-      <link>https://muaries57.github.io/paysage/etang/</link>
-      <pubDate>Sat, 13 Feb 2016 18:49:45 +0100</pubDate>
+      <title>Canard</title>
+      <link>https://MuAries57.github.io/tags/canard/</link>
+      <pubDate>Sat, 28 May 2016 13:46:18 +0200</pubDate>
       
-      <guid>https://muaries57.github.io/paysage/etang/</guid>
+      <guid>https://MuAries57.github.io/tags/canard/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Etang</title>
-      <link>https://muaries57.github.io/paysage/etang/</link>
-      <pubDate>Sat, 13 Feb 2016 18:49:45 +0100</pubDate>
+      <title>Cervidé</title>
+      <link>https://MuAries57.github.io/tags/cervid%C3%A9/</link>
+      <pubDate>Sat, 13 Feb 2016 12:41:46 +0100</pubDate>
       
-      <guid>https://muaries57.github.io/paysage/etang/</guid>
+      <guid>https://MuAries57.github.io/tags/cervid%C3%A9/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Blé</title>
-      <link>https://muaries57.github.io/paysage/ble/</link>
-      <pubDate>Sat, 13 Feb 2016 18:48:59 +0100</pubDate>
+      <title>Colombe</title>
+      <link>https://MuAries57.github.io/tags/colombe/</link>
+      <pubDate>Sat, 13 Feb 2016 14:04:26 +0100</pubDate>
       
-      <guid>https://muaries57.github.io/paysage/ble/</guid>
+      <guid>https://MuAries57.github.io/tags/colombe/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Blé</title>
-      <link>https://muaries57.github.io/paysage/ble/</link>
-      <pubDate>Sat, 13 Feb 2016 18:48:59 +0100</pubDate>
+      <title>Courant</title>
+      <link>https://MuAries57.github.io/tags/courant/</link>
+      <pubDate>Sat, 27 Feb 2016 11:12:06 +0100</pubDate>
       
-      <guid>https://muaries57.github.io/paysage/ble/</guid>
+      <guid>https://MuAries57.github.io/tags/courant/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Biche</title>
-      <link>https://muaries57.github.io/paysage/biche/</link>
-      <pubDate>Sat, 13 Feb 2016 18:48:15 +0100</pubDate>
+      <title>Fauvette</title>
+      <link>https://MuAries57.github.io/tags/fauvette/</link>
+      <pubDate>Sun, 26 Jun 2016 13:43:41 +0200</pubDate>
       
-      <guid>https://muaries57.github.io/paysage/biche/</guid>
+      <guid>https://MuAries57.github.io/tags/fauvette/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Biche</title>
-      <link>https://muaries57.github.io/paysage/biche/</link>
-      <pubDate>Sat, 13 Feb 2016 18:48:15 +0100</pubDate>
+      <title>Félidé</title>
+      <link>https://MuAries57.github.io/tags/f%C3%A9lid%C3%A9/</link>
+      <pubDate>Sat, 13 Feb 2016 10:36:54 +0100</pubDate>
       
-      <guid>https://muaries57.github.io/paysage/biche/</guid>
+      <guid>https://MuAries57.github.io/tags/f%C3%A9lid%C3%A9/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pie</title>
-      <link>https://muaries57.github.io/video/pie/</link>
-      <pubDate>Sat, 13 Feb 2016 18:48:15 +0100</pubDate>
+      <title>Geai</title>
+      <link>https://MuAries57.github.io/tags/geai/</link>
+      <pubDate>Sat, 19 Mar 2016 09:47:58 +0100</pubDate>
       
-      <guid>https://muaries57.github.io/video/pie/</guid>
-      <description>&lt;div class=&#34;videoblock&#34;&gt;
-&lt;div class=&#34;content&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/qOz6lU7GPdQ?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Pie</title>
-      <link>https://muaries57.github.io/video/pie/</link>
-      <pubDate>Sat, 13 Feb 2016 18:48:15 +0100</pubDate>
-      
-      <guid>https://muaries57.github.io/video/pie/</guid>
-      <description>&lt;div class=&#34;videoblock&#34;&gt;
-&lt;div class=&#34;content&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/qOz6lU7GPdQ?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Forêt</title>
-      <link>https://muaries57.github.io/paysage/foret/</link>
-      <pubDate>Sat, 13 Feb 2016 18:47:03 +0100</pubDate>
-      
-      <guid>https://muaries57.github.io/paysage/foret/</guid>
+      <guid>https://MuAries57.github.io/tags/geai/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Forêt</title>
-      <link>https://muaries57.github.io/paysage/foret/</link>
-      <pubDate>Sat, 13 Feb 2016 18:47:03 +0100</pubDate>
+      <title>Grive</title>
+      <link>https://MuAries57.github.io/tags/grive/</link>
+      <pubDate>Tue, 29 Mar 2016 18:39:56 +0200</pubDate>
       
-      <guid>https://muaries57.github.io/paysage/foret/</guid>
+      <guid>https://MuAries57.github.io/tags/grive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grue</title>
+      <link>https://MuAries57.github.io/tags/grue/</link>
+      <pubDate>Sat, 13 Feb 2016 14:24:22 +0100</pubDate>
+      
+      <guid>https://MuAries57.github.io/tags/grue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Insectivore</title>
+      <link>https://MuAries57.github.io/tags/insectivore/</link>
+      <pubDate>Sat, 26 Mar 2016 13:47:29 +0100</pubDate>
+      
+      <guid>https://MuAries57.github.io/tags/insectivore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jaune</title>
+      <link>https://MuAries57.github.io/tags/jaune/</link>
+      <pubDate>Fri, 25 Mar 2016 18:47:04 +0100</pubDate>
+      
+      <guid>https://MuAries57.github.io/tags/jaune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mamifère</title>
+      <link>https://MuAries57.github.io/tags/mamif%C3%A8re/</link>
+      <pubDate>Sat, 13 Feb 2016 13:49:56 +0100</pubDate>
+      
+      <guid>https://MuAries57.github.io/tags/mamif%C3%A8re/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mammifère</title>
+      <link>https://MuAries57.github.io/tags/mammif%C3%A8re/</link>
+      <pubDate>Sat, 26 Mar 2016 13:47:29 +0100</pubDate>
+      
+      <guid>https://MuAries57.github.io/tags/mammif%C3%A8re/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Migrateur</title>
+      <link>https://MuAries57.github.io/tags/migrateur/</link>
+      <pubDate>Sat, 13 Feb 2016 14:25:35 +0100</pubDate>
+      
+      <guid>https://MuAries57.github.io/tags/migrateur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moineau</title>
+      <link>https://MuAries57.github.io/tags/moineau/</link>
+      <pubDate>Tue, 19 Apr 2016 19:29:51 +0200</pubDate>
+      
+      <guid>https://MuAries57.github.io/tags/moineau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mustélidé</title>
+      <link>https://MuAries57.github.io/tags/must%C3%A9lid%C3%A9/</link>
+      <pubDate>Sat, 13 Feb 2016 12:49:08 +0100</pubDate>
+      
+      <guid>https://MuAries57.github.io/tags/must%C3%A9lid%C3%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mésange</title>
+      <link>https://MuAries57.github.io/tags/m%C3%A9sange/</link>
+      <pubDate>Sun, 13 Mar 2016 17:45:48 +0100</pubDate>
+      
+      <guid>https://MuAries57.github.io/tags/m%C3%A9sange/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Occasionnel</title>
+      <link>https://MuAries57.github.io/tags/occasionnel/</link>
+      <pubDate>Sat, 07 May 2016 08:43:16 +0200</pubDate>
+      
+      <guid>https://MuAries57.github.io/tags/occasionnel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oiseau</title>
+      <link>https://MuAries57.github.io/tags/oiseau/</link>
+      <pubDate>Sun, 16 Apr 2017 14:53:25 +0200</pubDate>
+      
+      <guid>https://MuAries57.github.io/tags/oiseau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oiseaux</title>
+      <link>https://MuAries57.github.io/tags/oiseaux/</link>
+      <pubDate>Sun, 26 Jun 2016 13:38:39 +0200</pubDate>
+      
+      <guid>https://MuAries57.github.io/tags/oiseaux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pic</title>
+      <link>https://MuAries57.github.io/tags/pic/</link>
+      <pubDate>Sat, 13 Feb 2016 14:06:43 +0100</pubDate>
+      
+      <guid>https://MuAries57.github.io/tags/pic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Porc</title>
+      <link>https://MuAries57.github.io/tags/porc/</link>
+      <pubDate>Sat, 13 Feb 2016 12:51:08 +0100</pubDate>
+      
+      <guid>https://MuAries57.github.io/tags/porc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pouillot</title>
+      <link>https://MuAries57.github.io/tags/pouillot/</link>
+      <pubDate>Sun, 26 Jun 2016 13:38:39 +0200</pubDate>
+      
+      <guid>https://MuAries57.github.io/tags/pouillot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pécheur</title>
+      <link>https://MuAries57.github.io/tags/p%C3%A9cheur/</link>
+      <pubDate>Sat, 20 Feb 2016 12:02:58 +0100</pubDate>
+      
+      <guid>https://MuAries57.github.io/tags/p%C3%A9cheur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapace</title>
+      <link>https://MuAries57.github.io/tags/rapace/</link>
+      <pubDate>Sat, 27 Feb 2016 11:12:29 +0100</pubDate>
+      
+      <guid>https://MuAries57.github.io/tags/rapace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rare</title>
+      <link>https://MuAries57.github.io/tags/rare/</link>
+      <pubDate>Sun, 16 Apr 2017 14:53:25 +0200</pubDate>
+      
+      <guid>https://MuAries57.github.io/tags/rare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reptile</title>
+      <link>https://MuAries57.github.io/tags/reptile/</link>
+      <pubDate>Sat, 13 Feb 2016 14:02:33 +0100</pubDate>
+      
+      <guid>https://MuAries57.github.io/tags/reptile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serpent</title>
+      <link>https://MuAries57.github.io/tags/serpent/</link>
+      <pubDate>Sat, 13 Feb 2016 14:02:33 +0100</pubDate>
+      
+      <guid>https://MuAries57.github.io/tags/serpent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verdier</title>
+      <link>https://MuAries57.github.io/tags/verdier/</link>
+      <pubDate>Sat, 07 May 2016 08:43:16 +0200</pubDate>
+      
+      <guid>https://MuAries57.github.io/tags/verdier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vert</title>
+      <link>https://MuAries57.github.io/tags/vert/</link>
+      <pubDate>Sat, 07 May 2016 08:43:16 +0200</pubDate>
+      
+      <guid>https://MuAries57.github.io/tags/vert/</guid>
       <description></description>
     </item>
     

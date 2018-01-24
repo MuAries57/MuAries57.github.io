@@ -2,55 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paysages on Nature en Lorraine</title>
-    <link>https://muaries57.github.io/paysage/index.xml</link>
+    <link>https://MuAries57.github.io/paysage/</link>
     <description>Recent content in Paysages on Nature en Lorraine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <lastBuildDate>Sat, 13 Feb 2016 18:50:42 +0100</lastBuildDate>
-    <atom:link href="https://muaries57.github.io/paysage/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://MuAries57.github.io/paysage/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Etang avec maison</title>
-      <link>https://muaries57.github.io/paysage/etang2/</link>
+      <link>https://MuAries57.github.io/paysage/etang2/</link>
       <pubDate>Sat, 13 Feb 2016 18:50:42 +0100</pubDate>
       
-      <guid>https://muaries57.github.io/paysage/etang2/</guid>
+      <guid>https://MuAries57.github.io/paysage/etang2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Etang</title>
-      <link>https://muaries57.github.io/paysage/etang/</link>
+      <link>https://MuAries57.github.io/paysage/etang/</link>
       <pubDate>Sat, 13 Feb 2016 18:49:45 +0100</pubDate>
       
-      <guid>https://muaries57.github.io/paysage/etang/</guid>
+      <guid>https://MuAries57.github.io/paysage/etang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blé</title>
-      <link>https://muaries57.github.io/paysage/ble/</link>
+      <link>https://MuAries57.github.io/paysage/ble/</link>
       <pubDate>Sat, 13 Feb 2016 18:48:59 +0100</pubDate>
       
-      <guid>https://muaries57.github.io/paysage/ble/</guid>
+      <guid>https://MuAries57.github.io/paysage/ble/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biche</title>
-      <link>https://muaries57.github.io/paysage/biche/</link>
+      <link>https://MuAries57.github.io/paysage/biche/</link>
       <pubDate>Sat, 13 Feb 2016 18:48:15 +0100</pubDate>
       
-      <guid>https://muaries57.github.io/paysage/biche/</guid>
+      <guid>https://MuAries57.github.io/paysage/biche/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forêt</title>
-      <link>https://muaries57.github.io/paysage/foret/</link>
+      <link>https://MuAries57.github.io/paysage/foret/</link>
       <pubDate>Sat, 13 Feb 2016 18:47:03 +0100</pubDate>
       
-      <guid>https://muaries57.github.io/paysage/foret/</guid>
+      <guid>https://MuAries57.github.io/paysage/foret/</guid>
       <description></description>
     </item>
     

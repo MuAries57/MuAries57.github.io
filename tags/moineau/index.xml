@@ -2,25 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Moineau on Nature en Lorraine</title>
-    <link>https://muaries57.github.io/tags/moineau/index.xml</link>
+    <link>https://MuAries57.github.io/tags/moineau/</link>
     <description>Recent content in Moineau on Nature en Lorraine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <atom:link href="https://muaries57.github.io/tags/moineau/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Apr 2016 19:29:51 +0200</lastBuildDate>
+    
+	<atom:link href="https://MuAries57.github.io/tags/moineau/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Moineau friquet</title>
-      <link>https://muaries57.github.io/jardin/moineauf/</link>
+      <link>https://MuAries57.github.io/jardin/moineauf/</link>
       <pubDate>Tue, 19 Apr 2016 19:29:51 +0200</pubDate>
       
-      <guid>https://muaries57.github.io/jardin/moineauf/</guid>
-      <description>&lt;div class=&#34;sect2&#34;&gt;
-&lt;h3 id=&#34;_dans_le_jardin&#34;&gt;Dans le jardin&lt;/h3&gt;
-&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Il faut dire qu&amp;#8217;on a mis du temps à le repérer celui là car il ressemble quand même au moineau domestique. Nous en avons vu qu&amp;#8217;un seul. Il vient lui aussi chercher des graines dans la mangeoire et vient de fois au sol ramasser ce que les moineaux domestiques font tomber.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <guid>https://MuAries57.github.io/jardin/moineauf/</guid>
+      <description>Dans le jardin Il faut dire qu&amp;#8217;on a mis du temps à le repérer celui là car il ressemble quand même au moineau domestique. Nous en avons vu qu&amp;#8217;un seul. Il vient lui aussi chercher des graines dans la mangeoire et vient de fois au sol ramasser ce que les moineaux domestiques font tomber.
+  </description>
     </item>
     
   </channel>

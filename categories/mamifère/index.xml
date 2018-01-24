@@ -2,27 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mamifère on Nature en Lorraine</title>
-    <link>https://muaries57.github.io/categories/mamif%C3%A8re/index.xml</link>
+    <link>https://MuAries57.github.io/categories/mamif%C3%A8re/</link>
     <description>Recent content in Mamifère on Nature en Lorraine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <atom:link href="https://muaries57.github.io/categories/mamif%C3%A8re/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Feb 2016 13:49:56 +0100</lastBuildDate>
+    
+	<atom:link href="https://MuAries57.github.io/categories/mamif%C3%A8re/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Ecureuil</title>
-      <link>https://muaries57.github.io/jardin/ecureuil/</link>
+      <link>https://MuAries57.github.io/jardin/ecureuil/</link>
       <pubDate>Sat, 13 Feb 2016 13:49:56 +0100</pubDate>
       
-      <guid>https://muaries57.github.io/jardin/ecureuil/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Un matin où j&amp;#8217;étais toute seule à la maison, j&amp;#8217;entends gratter sur la porte d&amp;#8217;entrée avec insistance.
-Je prends quand même peur, mais je decide d&amp;#8217;aller ouvrir la porte pour voir ce qu&amp;#8217;il se passe. J&amp;#8217;ouvre et qu&amp;#8217;est ce que je vois, un écureuil qui passe de long en large devant la porte. Je referme la porte.
-J&amp;#8217;entends re-gratter sur la porte, j&amp;#8217;ouvre la porte plus violemment, et là, l&amp;#8217;écureuil s&amp;#8217;en va.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Le midi, j&amp;#8217;ai observé la porte d&amp;#8217;entrée, on voyait très bien la marque des pattes (un trident)&lt;/p&gt;
-&lt;/div&gt;
-</description>
+      <guid>https://MuAries57.github.io/jardin/ecureuil/</guid>
+      <description>Un matin où j&amp;#8217;étais toute seule à la maison, j&amp;#8217;entends gratter sur la porte d&amp;#8217;entrée avec insistance. Je prends quand même peur, mais je decide d&amp;#8217;aller ouvrir la porte pour voir ce qu&amp;#8217;il se passe. J&amp;#8217;ouvre et qu&amp;#8217;est ce que je vois, un écureuil qui passe de long en large devant la porte. Je referme la porte. J&amp;#8217;entends re-gratter sur la porte, j&amp;#8217;ouvre la porte plus violemment, et là, l&amp;#8217;écureuil s&amp;#8217;en va.</description>
     </item>
     
   </channel>

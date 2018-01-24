@@ -2,44 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Videos on Nature en Lorraine</title>
-    <link>https://muaries57.github.io/video/index.xml</link>
+    <link>https://MuAries57.github.io/video/</link>
     <description>Recent content in Videos on Nature en Lorraine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <lastBuildDate>Thu, 10 Mar 2016 20:09:45 +0100</lastBuildDate>
-    <atom:link href="https://muaries57.github.io/video/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://MuAries57.github.io/video/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Mésanges</title>
-      <link>https://muaries57.github.io/video/mesanges/</link>
+      <link>https://MuAries57.github.io/video/mesanges/</link>
       <pubDate>Thu, 10 Mar 2016 20:09:45 +0100</pubDate>
       
-      <guid>https://muaries57.github.io/video/mesanges/</guid>
-      <description>&lt;div class=&#34;videoblock&#34;&gt;
-&lt;div class=&#34;content&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/4lK9QLA1BfY?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;videoblock&#34;&gt;
-&lt;div class=&#34;content&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/3DxC1sDmDDQ?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <guid>https://MuAries57.github.io/video/mesanges/</guid>
+      <description>      </description>
     </item>
     
     <item>
       <title>Pie</title>
-      <link>https://muaries57.github.io/video/pie/</link>
+      <link>https://MuAries57.github.io/video/pie/</link>
       <pubDate>Sat, 13 Feb 2016 18:48:15 +0100</pubDate>
       
-      <guid>https://muaries57.github.io/video/pie/</guid>
-      <description>&lt;div class=&#34;videoblock&#34;&gt;
-&lt;div class=&#34;content&#34;&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/qOz6lU7GPdQ?rel=0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <guid>https://MuAries57.github.io/video/pie/</guid>
+      <description>   </description>
     </item>
     
   </channel>
