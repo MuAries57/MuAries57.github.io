@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nature en Lorraine</title>
+    <title>Categories on Nature en Lorraine</title>
     <link>https://MuAries57.github.io/categories/</link>
-    <description>Recent content on Nature en Lorraine</description>
+    <description>Recent content in Categories on Nature en Lorraine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <lastBuildDate>Thu, 10 Mar 2016 20:09:45 +0100</lastBuildDate>
@@ -12,65 +12,56 @@
     
     
     <item>
-      <title>Mésanges</title>
-      <link>https://MuAries57.github.io/video/mesanges/</link>
+      <title></title>
+      <link>https://MuAries57.github.io/categories/</link>
       <pubDate>Thu, 10 Mar 2016 20:09:45 +0100</pubDate>
       
-      <guid>https://MuAries57.github.io/video/mesanges/</guid>
-      <description>      </description>
-    </item>
-    
-    <item>
-      <title>Etang avec maison</title>
-      <link>https://MuAries57.github.io/paysage/etang2/</link>
-      <pubDate>Sat, 13 Feb 2016 18:50:42 +0100</pubDate>
-      
-      <guid>https://MuAries57.github.io/paysage/etang2/</guid>
+      <guid>https://MuAries57.github.io/categories/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Etang</title>
-      <link>https://MuAries57.github.io/paysage/etang/</link>
-      <pubDate>Sat, 13 Feb 2016 18:49:45 +0100</pubDate>
+      <title>Mamifère</title>
+      <link>https://MuAries57.github.io/categories/mamif%C3%A8re/</link>
+      <pubDate>Sat, 13 Feb 2016 13:49:56 +0100</pubDate>
       
-      <guid>https://MuAries57.github.io/paysage/etang/</guid>
+      <guid>https://MuAries57.github.io/categories/mamif%C3%A8re/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Blé</title>
-      <link>https://MuAries57.github.io/paysage/ble/</link>
-      <pubDate>Sat, 13 Feb 2016 18:48:59 +0100</pubDate>
+      <title>Mammifère</title>
+      <link>https://MuAries57.github.io/categories/mammif%C3%A8re/</link>
+      <pubDate>Sat, 26 Mar 2016 13:47:29 +0100</pubDate>
       
-      <guid>https://MuAries57.github.io/paysage/ble/</guid>
+      <guid>https://MuAries57.github.io/categories/mammif%C3%A8re/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Biche</title>
-      <link>https://MuAries57.github.io/paysage/biche/</link>
-      <pubDate>Sat, 13 Feb 2016 18:48:15 +0100</pubDate>
+      <title>Oiseau</title>
+      <link>https://MuAries57.github.io/categories/oiseau/</link>
+      <pubDate>Sun, 16 Apr 2017 14:53:25 +0200</pubDate>
       
-      <guid>https://MuAries57.github.io/paysage/biche/</guid>
+      <guid>https://MuAries57.github.io/categories/oiseau/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pie</title>
-      <link>https://MuAries57.github.io/video/pie/</link>
-      <pubDate>Sat, 13 Feb 2016 18:48:15 +0100</pubDate>
+      <title>Oiseaux</title>
+      <link>https://MuAries57.github.io/categories/oiseaux/</link>
+      <pubDate>Sun, 26 Jun 2016 13:38:39 +0200</pubDate>
       
-      <guid>https://MuAries57.github.io/video/pie/</guid>
-      <description>   </description>
+      <guid>https://MuAries57.github.io/categories/oiseaux/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Forêt</title>
-      <link>https://MuAries57.github.io/paysage/foret/</link>
-      <pubDate>Sat, 13 Feb 2016 18:47:03 +0100</pubDate>
+      <title>Reptile</title>
+      <link>https://MuAries57.github.io/categories/reptile/</link>
+      <pubDate>Sat, 13 Feb 2016 14:02:33 +0100</pubDate>
       
-      <guid>https://MuAries57.github.io/paysage/foret/</guid>
+      <guid>https://MuAries57.github.io/categories/reptile/</guid>
       <description></description>
     </item>
     
