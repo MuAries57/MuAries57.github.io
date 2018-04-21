@@ -268,6 +268,11 @@
   </url>
   
   <url>
+    <loc>https://MuAries57.github.io/jardin/colombe/</loc>
+    <lastmod>2016-02-13T13:48:02+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://MuAries57.github.io/jardin/bergeronnette/</loc>
     <lastmod>2016-02-13T12:53:05+01:00</lastmod>
   </url>
@@ -323,13 +328,13 @@
   </url>
   
   <url>
-    <loc>https://MuAries57.github.io/tags/</loc>
+    <loc>https://MuAries57.github.io/categories/</loc>
     <lastmod>2016-03-10T20:09:45+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://MuAries57.github.io/categories/</loc>
+    <loc>https://MuAries57.github.io/tags/</loc>
     <lastmod>2016-03-10T20:09:45+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -419,25 +424,25 @@
   </url>
   
   <url>
-    <loc>https://MuAries57.github.io/tags/mamif%C3%A8re/</loc>
-    <lastmod>2016-02-13T13:49:56+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://MuAries57.github.io/categories/mamif%C3%A8re/</loc>
     <lastmod>2016-02-13T13:49:56+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://MuAries57.github.io/tags/mammif%C3%A8re/</loc>
-    <lastmod>2016-03-26T13:47:29+01:00</lastmod>
+    <loc>https://MuAries57.github.io/tags/mamif%C3%A8re/</loc>
+    <lastmod>2016-02-13T13:49:56+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://MuAries57.github.io/categories/mammif%C3%A8re/</loc>
+    <lastmod>2016-03-26T13:47:29+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://MuAries57.github.io/tags/mammif%C3%A8re/</loc>
     <lastmod>2016-03-26T13:47:29+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -479,25 +484,25 @@
   </url>
   
   <url>
-    <loc>https://MuAries57.github.io/tags/oiseau/</loc>
-    <lastmod>2017-04-16T14:53:25+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://MuAries57.github.io/categories/oiseau/</loc>
     <lastmod>2017-04-16T14:53:25+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://MuAries57.github.io/tags/oiseaux/</loc>
-    <lastmod>2016-06-26T13:38:39+02:00</lastmod>
+    <loc>https://MuAries57.github.io/tags/oiseau/</loc>
+    <lastmod>2017-04-16T14:53:25+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://MuAries57.github.io/categories/oiseaux/</loc>
+    <lastmod>2016-06-26T13:38:39+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://MuAries57.github.io/tags/oiseaux/</loc>
     <lastmod>2016-06-26T13:38:39+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -557,13 +562,13 @@
   </url>
   
   <url>
-    <loc>https://MuAries57.github.io/tags/reptile/</loc>
+    <loc>https://MuAries57.github.io/categories/reptile/</loc>
     <lastmod>2016-02-13T14:02:33+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://MuAries57.github.io/categories/reptile/</loc>
+    <loc>https://MuAries57.github.io/tags/reptile/</loc>
     <lastmod>2016-02-13T14:02:33+01:00</lastmod>
     <priority>0</priority>
   </url>
